@@ -1,2 +1,2 @@
-# ryazan2018
-Russian IT Workshop in Ryazan. September 29, 2018
+# ryazan2019
+Russian IT Workshop in Ryazan. November 30, 2019

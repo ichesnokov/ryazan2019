@@ -72,7 +72,7 @@
 <form method="POST" action="[% make_uri('updatemytalks') %]" />
 [% END %]
 [% d = day %]
-<h2>Суббота, 29 сентября 2018 г.</h2>
+<h2>Суббота, 30 ноября 2019 г.</h2>
 <table border="0">
 <thead>
  <tr class="header">
